@@ -3,7 +3,7 @@ using Entidad;
 using System;
 using System.Linq;
 
-namespace Repositorio
+namespace Cliente
 {
     class Program
     {
